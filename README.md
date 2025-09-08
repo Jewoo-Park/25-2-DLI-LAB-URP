@@ -1,2 +1,2 @@
 # 25-2-DLI-LAB-URP
-1. IMDB Datasets are from <LEARNING THE DIFFERENCE THAT MAKES A DIFFERENCE WITH COUNTERFACTUALLY-AUGMENTED DATA>
+1. IMDB Datasets are from 'Learning the Difference that Makes a Difference with Counterfactually Augmented Data'
